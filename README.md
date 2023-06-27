@@ -1,4 +1,4 @@
-## 👩‍💻 개발자 알고리즘 스터디 Egic 👨‍💻
+# 👩‍💻 개발자 알고리즘 스터디 Egic 👨‍💻
 #### - 기간 : 2023.07.04 ~
 #### - 사용 언어 : <img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img  src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/>
 
