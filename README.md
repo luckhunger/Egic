@@ -1,10 +1,10 @@
-## 📝 개발자 알고리즘 스터디 Egic
-사용 언어 : <img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, <img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/>
+## 👩‍💻 개발자 알고리즘 스터디 Egic 👨‍💻
+#### - 사용 언어 : <img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, <img  src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
 
 <br/>
 <br/>
 
-## 📍 소개
+## 📍 Members
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ZIHOKIM"><img src="" width="100px;" alt=""/><br /><img src="" widt="100px"><br /><sub><b>김도희</b></sub></a><br /></td>    
@@ -16,6 +16,15 @@
 </table>
 
 <br/>
+
+## 📍 Curriculum
+
+| 주차 | 알고리즘 주제          | 공통 문제                                                    |
+| ---- | --------------------- | ------------------------------------------------------------ |
+|      |                       |                                                              |
+|      |                       |                                                              |
+
 <br/>
 
-## 📍 규칙
+## 📍 Rule
+
