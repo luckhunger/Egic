@@ -1,0 +1,17 @@
+//2023-07-25 인프런 강의 1강 : 문자 찾기
+public class Main {
+	public static void main(String[] args) {
+		// 내 풀이
+		Scanner sc = new Scanner(System.in);
+		String str = sc.next();
+		str.toUpperCase(); // 대문자 변환
+		char c = sc.next().charAt(0); // 문자열에서 하나만 가져오기
+		int count  =0;
+		for(int i = 0; i < str.length(); i++) {
+			if(str.toUpperCase().charAt(i)== Character.toUpperCase(c)) {
+				count++;
+			}
+		}
+		 System.out.print(count);
+	}
+}
